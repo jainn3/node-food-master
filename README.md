@@ -27,5 +27,3 @@ Each branch represents a certain tutorial.
 - tut5-redis: Coming Soon
 - tut6-organization: Coming Soon
 
-
-![Food-alholic](http://i.imgur.com/ikyqgrn.png)
