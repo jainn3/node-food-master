@@ -1,0 +1,12 @@
+1) Refresh Button
+Added a Refresh button and provided api/deleteAll to remove all the food from the database.
+This is useful since in a single click all values can be deleted from database and it is useful when a new customer comes for the order.
+Hence manual deletion of entries is replaced by a single click.
+
+2) UI changes
+Food as well as price has been displayed on UI so that user knows which food has what price.
+
+3) Total (with 7.5% tax)
+Total keeps on updating as an when item is added or deleted.
+
+Note : Negative price is also accepted since it helps user to undo the price a food.
